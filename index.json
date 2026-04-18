@@ -1,0 +1,357 @@
+{
+  "library_name": "AI Ebook Library",
+  "description": "AI可直接访问的电子书库，按整本书索引，章节作为子项",
+  "last_updated": "2026-04-19 00:25:07",
+  "total_books": 1,
+  "books": [
+    {
+      "id": "034e11516d",
+      "title": "机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）",
+      "category": "computer",
+      "path": "texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）",
+      "chapter_count": 2,
+      "chapters": [
+        {
+          "chapter_title": "第一章",
+          "chapter_dir": "01-第一章",
+          "format": "md",
+          "size_kb": 54.2,
+          "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/第一章.md",
+          "summary": "#### 第1章  ## 机器学习概览  不久前,如果你拿起⼿机问它回家的路,它会不理你,⼈们会质疑你的理智。但机器学习不再是科 幻⼩说:每天都有数⼗亿⼈在使⽤它。事实上,它已经在⼀些专业应⽤程序中存在了⼏⼗年,例如 光学字符识别(Optical Character Recognition,OCR)。第⼀个真正成为主流、改善数亿⼈⽣ 活的ML应⽤程序在20世纪90年代⻛靡全球:垃圾邮件过滤器。它不完全是⼀个具有⾃我意识的机 器⼈,但它在技术上确实称得上是机器学习:它实际上学得⾮常好,以⾄于你很少需要再将电⼦邮 件标记为垃圾邮件。紧随其后的是数百个ML应⽤程序,它们现在悄悄地为你经常使⽤的数百种...",
+          "has_images": true,
+          "image_count": 39,
+          "images": [
+            {
+              "name": "_page_0_Picture_6.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_0_Picture_6.jpeg"
+            },
+            {
+              "name": "_page_10_Figure_1.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_10_Figure_1.jpeg"
+            },
+            {
+              "name": "_page_11_Picture_1.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_11_Picture_1.jpeg"
+            },
+            {
+              "name": "_page_12_Picture_0.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_12_Picture_0.jpeg"
+            },
+            {
+              "name": "_page_12_Picture_1.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_12_Picture_1.jpeg"
+            },
+            {
+              "name": "_page_12_Picture_4.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_12_Picture_4.jpeg"
+            },
+            {
+              "name": "_page_13_Picture_0.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_13_Picture_0.jpeg"
+            },
+            {
+              "name": "_page_13_Picture_3.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_13_Picture_3.jpeg"
+            },
+            {
+              "name": "_page_13_Picture_6.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_13_Picture_6.jpeg"
+            },
+            {
+              "name": "_page_14_Picture_2.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_14_Picture_2.jpeg"
+            },
+            {
+              "name": "_page_15_Figure_0.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_15_Figure_0.jpeg"
+            },
+            {
+              "name": "_page_16_Figure_0.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_16_Figure_0.jpeg"
+            },
+            {
+              "name": "_page_16_Picture_3.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_16_Picture_3.jpeg"
+            },
+            {
+              "name": "_page_17_Figure_6.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_17_Figure_6.jpeg"
+            },
+            {
+              "name": "_page_18_Picture_0.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_18_Picture_0.jpeg"
+            },
+            {
+              "name": "_page_19_Figure_0.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_19_Figure_0.jpeg"
+            },
+            {
+              "name": "_page_1_Figure_5.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_1_Figure_5.jpeg"
+            },
+            {
+              "name": "_page_20_Figure_0.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_20_Figure_0.jpeg"
+            },
+            {
+              "name": "_page_20_Picture_6.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_20_Picture_6.jpeg"
+            },
+            {
+              "name": "_page_21_Figure_0.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_21_Figure_0.jpeg"
+            },
+            {
+              "name": "_page_22_Picture_1.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_22_Picture_1.jpeg"
+            },
+            {
+              "name": "_page_24_Figure_0.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_24_Figure_0.jpeg"
+            },
+            {
+              "name": "_page_25_Figure_5.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_25_Figure_5.jpeg"
+            },
+            {
+              "name": "_page_27_Figure_0.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_27_Figure_0.jpeg"
+            },
+            {
+              "name": "_page_27_Picture_3.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_27_Picture_3.jpeg"
+            },
+            {
+              "name": "_page_28_Figure_1.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_28_Figure_1.jpeg"
+            },
+            {
+              "name": "_page_29_Picture_7.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_29_Picture_7.jpeg"
+            },
+            {
+              "name": "_page_2_Figure_1.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_2_Figure_1.jpeg"
+            },
+            {
+              "name": "_page_30_Figure_1.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_30_Figure_1.jpeg"
+            },
+            {
+              "name": "_page_31_Picture_1.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_31_Picture_1.jpeg"
+            },
+            {
+              "name": "_page_3_Figure_0.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_3_Figure_0.jpeg"
+            },
+            {
+              "name": "_page_4_Figure_0.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_4_Figure_0.jpeg"
+            },
+            {
+              "name": "_page_6_Picture_13.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_6_Picture_13.jpeg"
+            },
+            {
+              "name": "_page_7_Figure_5.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_7_Figure_5.jpeg"
+            },
+            {
+              "name": "_page_7_Picture_7.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_7_Picture_7.jpeg"
+            },
+            {
+              "name": "_page_8_Figure_3.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_8_Figure_3.jpeg"
+            },
+            {
+              "name": "_page_8_Picture_0.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_8_Picture_0.jpeg"
+            },
+            {
+              "name": "_page_9_Figure_1.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_9_Figure_1.jpeg"
+            },
+            {
+              "name": "_page_9_Picture_5.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/01-第一章/_page_9_Picture_5.jpeg"
+            }
+          ]
+        },
+        {
+          "chapter_title": "第二章",
+          "chapter_dir": "02-第二章",
+          "format": "md",
+          "size_kb": 97.5,
+          "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/第二章.md",
+          "summary": "#### 第2章  ## 端到端机器学习项⽬  在本章中,将假设你是⼀家房地产公司最近聘请的数据科学家,完成⼀个端到端示例项⽬。这个示 例是虚构的,⽬标是说明机器学习项⽬的主要步骤,⽽不是学习有关房地产业务的任何知识。以下 是我们将要完成的主要步骤:  - 1. 放眼⼤局。 - 2. 获取数据。 - 3. 探索和可视化数据以获得⻅解。 - 4. 为机器学习算法准备数据。 - 5. 选择⼀个模型并训练它。 - 6. 微调模型。 - 7. 展示解决⽅案。 - 8. 发布、监控和维护系统。  ## 2.1 使⽤真实数据  当你学习机器学习时,最好使⽤真实世界的数据⽽不是⼈⼯数据集进⾏实验。幸运的是,...",
+          "has_images": true,
+          "image_count": 40,
+          "images": [
+            {
+              "name": "_page_11_Picture_7.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_11_Picture_7.jpeg"
+            },
+            {
+              "name": "_page_12_Figure_10.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_12_Figure_10.jpeg"
+            },
+            {
+              "name": "_page_12_Figure_8.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_12_Figure_8.jpeg"
+            },
+            {
+              "name": "_page_12_Figure_9.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_12_Figure_9.jpeg"
+            },
+            {
+              "name": "_page_13_Figure_0.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_13_Figure_0.jpeg"
+            },
+            {
+              "name": "_page_13_Picture_10.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_13_Picture_10.jpeg"
+            },
+            {
+              "name": "_page_16_Figure_3.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_16_Figure_3.jpeg"
+            },
+            {
+              "name": "_page_18_Figure_9.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_18_Figure_9.jpeg"
+            },
+            {
+              "name": "_page_19_Figure_5.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_19_Figure_5.jpeg"
+            },
+            {
+              "name": "_page_1_Figure_5.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_1_Figure_5.jpeg"
+            },
+            {
+              "name": "_page_20_Figure_2.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_20_Figure_2.jpeg"
+            },
+            {
+              "name": "_page_21_Figure_5.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_21_Figure_5.jpeg"
+            },
+            {
+              "name": "_page_22_Figure_4.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_22_Figure_4.jpeg"
+            },
+            {
+              "name": "_page_23_Figure_3.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_23_Figure_3.jpeg"
+            },
+            {
+              "name": "_page_23_Picture_0.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_23_Picture_0.jpeg"
+            },
+            {
+              "name": "_page_25_Picture_15.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_25_Picture_15.jpeg"
+            },
+            {
+              "name": "_page_2_Picture_0.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_2_Picture_0.jpeg"
+            },
+            {
+              "name": "_page_2_Picture_6.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_2_Picture_6.jpeg"
+            },
+            {
+              "name": "_page_30_Picture_1.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_30_Picture_1.jpeg"
+            },
+            {
+              "name": "_page_30_Picture_8.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_30_Picture_8.jpeg"
+            },
+            {
+              "name": "_page_31_Picture_6.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_31_Picture_6.jpeg"
+            },
+            {
+              "name": "_page_32_Figure_0.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_32_Figure_0.jpeg"
+            },
+            {
+              "name": "_page_33_Figure_0.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_33_Figure_0.jpeg"
+            },
+            {
+              "name": "_page_36_Picture_5.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_36_Picture_5.jpeg"
+            },
+            {
+              "name": "_page_37_Figure_3.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_37_Figure_3.jpeg"
+            },
+            {
+              "name": "_page_38_Picture_1.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_38_Picture_1.jpeg"
+            },
+            {
+              "name": "_page_39_Picture_4.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_39_Picture_4.jpeg"
+            },
+            {
+              "name": "_page_3_Picture_5.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_3_Picture_5.jpeg"
+            },
+            {
+              "name": "_page_40_Picture_3.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_40_Picture_3.jpeg"
+            },
+            {
+              "name": "_page_43_Picture_6.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_43_Picture_6.jpeg"
+            },
+            {
+              "name": "_page_45_Picture_3.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_45_Picture_3.jpeg"
+            },
+            {
+              "name": "_page_45_Picture_8.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_45_Picture_8.jpeg"
+            },
+            {
+              "name": "_page_48_Picture_2.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_48_Picture_2.jpeg"
+            },
+            {
+              "name": "_page_49_Picture_6.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_49_Picture_6.jpeg"
+            },
+            {
+              "name": "_page_50_Figure_3.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_50_Figure_3.jpeg"
+            },
+            {
+              "name": "_page_7_Figure_0.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_7_Figure_0.jpeg"
+            },
+            {
+              "name": "_page_7_Picture_5.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_7_Picture_5.jpeg"
+            },
+            {
+              "name": "_page_8_Figure_7.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_8_Figure_7.jpeg"
+            },
+            {
+              "name": "_page_8_Picture_4.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_8_Picture_4.jpeg"
+            },
+            {
+              "name": "_page_9_Picture_3.jpeg",
+              "url": "https://raw.githubusercontent.com/lindaiyu-big/ebook-library/main/texts/computer/机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第3版）/02-第二章/_page_9_Picture_3.jpeg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
